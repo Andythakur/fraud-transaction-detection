@@ -48,3 +48,13 @@ The model classifies transactions as **fraudulent (1)** or **legitimate (0)** ba
 ---
 
 ## 🗃 File Structure
+---
+
+## ▶️ How to Run
+
+1. Clone the repo  
+2. Install requirements  
+3. Run the script:
+
+```bash
+python Fraud_transaction_detection.py
